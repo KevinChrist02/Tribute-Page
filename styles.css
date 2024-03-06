@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+#title {
+  text-align: center;
+}
+
+#main {
+  margin: 40px 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+#img-div {
+  margin: 0 60px;
+}
+
+#image {
+  max-height: 500px;
+  border-radius: 12px;
+}
